@@ -1,0 +1,1 @@
+import{j as o}from"./strapi-du6uZkTz.js";import{HomePageCE as t}from"./HomePage-DPTVOj-m.js";import{u as i}from"./useLicenseLimitNotification-CIryvWdv.js";import"./RelativeTime-CpYToBL8.js";import"./Ornaments-5iBv_PX1.js";import"./isNil-w3NCm2Qe.js";const n=()=>(i(),o.jsx(t,{}));export{n as HomePageEE};
